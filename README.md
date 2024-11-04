@@ -1,1 +1,1 @@
-# 1ch_hub_config
+# LoRaWAN Minimalist Project.
